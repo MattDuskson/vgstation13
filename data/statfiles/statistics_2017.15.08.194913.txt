@@ -1,0 +1,73 @@
+STATLOG_START|1.1|Defficiency|2017.08.15.19.49.13|2017.08.15.21.06.52
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|205.451
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-5170
+ESCAPEES|2
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2854.830078125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2855.489990234375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2855.820068359375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2856.14990234375||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2856.14990234375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2856.81005859375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2857.139892578125||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2857.800048828125||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2858.4599609375||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2858.7900390625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2859.1201171875||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2859.449951171875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2860.110107421875||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2860.43994140625||475|61|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2861.10009765625||344|378|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2861.760009765625||340|379|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2862.090087890625||338|380|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2862.419921875||344|381|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2863.409912109375||104|380|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2864.070068359375||102|380|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2864.72998046875||100|380|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2865.06005859375||98|380|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2865.389892578125||95|380|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2866.050048828125||104|381|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2866.3798828125||102|381|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2867.0400390625||100|381|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2867.699951171875||98|381|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2868.030029296875||104|382|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2868.360107421875||102|382|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2868.68994140625||100|382|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2869.35009765625||98|382|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2869.679931640625||95|382|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2870.340087890625||86|306|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2871||81|306|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2871.330078125||84|308|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4864.85986328125||309|271|1|everydaybro|Zion Randolph
+MOB_DEATH|/mob/living/carbon/human|null|14564.5498046875|Unknown|216|194|1|baredo|Keziah Eckhardstein
+MOB_DEATH|/mob/living/carbon/human|null|23525.0390625|Unknown|279|243|1|deepinsideme|Mandy Mahoney
+MOB_DEATH|/mob/living/carbon/human|null|26000.369140625|Keziah Eckhardstein|277|181|1|everydaybro|Josue Treeby
+MOB_DEATH|/mob/living/carbon/human|null|35385.5703125|Judah Richards|238|265|1|xenonfort|Riddle Riddleson
+MOB_DEATH|/mob/living/carbon/human|null|40596.6015625|Justin Conrad|213|192|1|everydaybro|Judah Richards
+EXPLOSION|310|272|1|8|16|24|24
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|4
+POPCOUNT|2017-08-15 19:54:20|4
+POPCOUNT|2017-08-15 19:59:28|4
+POPCOUNT|2017-08-15 20:04:35|4
+POPCOUNT|2017-08-15 20:09:42|5
+POPCOUNT|2017-08-15 20:14:49|5
+POPCOUNT|2017-08-15 20:19:56|5
+POPCOUNT|2017-08-15 20:24:12|5
+POPCOUNT|2017-08-15 20:30:11|5
+POPCOUNT|2017-08-15 20:34:27|5
+POPCOUNT|2017-08-15 20:39:34|5
+POPCOUNT|2017-08-15 20:44:41|7
+POPCOUNT|2017-08-15 20:49:48|7
+POPCOUNT|2017-08-15 20:54:56|7
+POPCOUNT|2017-08-15 21:00:03|7
+POPCOUNT|2017-08-15 21:05:10|6
+WRITE_COMPLETE

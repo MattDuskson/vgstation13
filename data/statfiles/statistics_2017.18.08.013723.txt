@@ -1,0 +1,110 @@
+STATLOG_START|1.1|Defficiency|2017.08.18.01.37.23|2017.08.18.04.46.49
+MASTERMODE|secret
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|272.245
+CRATES_ORDERED|9
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|502
+ESCAPEES|0
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2960.800048828125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2961.1298828125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2961.7900390625||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2962.449951171875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2962.449951171875||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2962.780029296875||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2963.110107421875||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2963.43994140625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2964.10009765625||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2964.429931640625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2965.090087890625||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2965.75||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2966.080078125||204|113|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2966.409912109375||202|113|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.070068359375||200|113|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.39990234375||198|113|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.06005859375||195|113|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.719970703125||204|114|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2969.050048828125||202|114|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2969.3798828125||200|114|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2970.0400390625||198|114|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2970.3701171875||204|115|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2970.699951171875||202|115|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2971.360107421875||200|115|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.02001953125||198|115|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.35009765625||195|115|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.679931640625||121|228|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2973.340087890625||119|228|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2973.669921875||119|228|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2974.330078125||119|228|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2974.989990234375||118|236|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.320068359375||281|187|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.31005859375||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.639892578125||174|355|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.300048828125||236|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.9599609375||234|287|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.2900390625||112|439|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.6201171875||378|262|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.949951171875||375|263|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.610107421875||374|263|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.93994140625||380|264|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.60009765625||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.60009765625||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.260009765625||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.260009765625||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.590087890625||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.919921875||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.919921875||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|88020.28125||369|107|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|88280.3203125|Unknown (as Jack Dimeling)|209|187|1|nicaragua|PLIM PLIM
+MOB_DEATH|/mob/living/carbon/monkey/punpun|null|106380.4921875|Unknown (as Jack Dimeling)|225|246|1|null|Pun Pun
+MOB_DEATH|/mob/living/carbon/human|null|115723.453125|PLIM PLIM|16|243|2|understr1k3|Alexander Ramos
+MOB_DEATH|/mob/living/carbon/human|null|115748.53125|Alexander Ramos|13|244|2|xenonfort|Aaron Sullivan
+MOB_DEATH|/mob/living/carbon/human|null|115755.4609375|Alexander Ramos|14|244|2|baredo|Jack Dimeling
+EXPLOSION|239|262|1|1|2|4|4
+EXPLOSION|240|259|1|1|2|4|4
+EXPLOSION|238|259|1|1|2|4|4
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+POPCOUNT|2017-08-18 01:42:30|5
+POPCOUNT|2017-08-18 01:46:46|5
+POPCOUNT|2017-08-18 01:51:53|5
+POPCOUNT|2017-08-18 01:57:00|5
+POPCOUNT|2017-08-18 02:02:08|5
+POPCOUNT|2017-08-18 02:07:15|5
+POPCOUNT|2017-08-18 02:12:22|5
+POPCOUNT|2017-08-18 02:17:29|4
+POPCOUNT|2017-08-18 02:22:36|4
+POPCOUNT|2017-08-18 02:27:44|3
+POPCOUNT|2017-08-18 02:32:51|3
+POPCOUNT|2017-08-18 02:37:58|3
+POPCOUNT|2017-08-18 02:43:05|3
+POPCOUNT|2017-08-18 02:48:12|4
+POPCOUNT|2017-08-18 02:52:28|4
+POPCOUNT|2017-08-18 02:57:36|4
+POPCOUNT|2017-08-18 03:02:43|4
+POPCOUNT|2017-08-18 03:07:50|4
+POPCOUNT|2017-08-18 03:12:57|4
+POPCOUNT|2017-08-18 03:18:04|4
+POPCOUNT|2017-08-18 03:23:12|4
+POPCOUNT|2017-08-18 03:28:19|4
+POPCOUNT|2017-08-18 03:33:26|4
+POPCOUNT|2017-08-18 03:37:42|4
+POPCOUNT|2017-08-18 03:42:49|4
+POPCOUNT|2017-08-18 03:47:56|4
+POPCOUNT|2017-08-18 03:53:04|4
+POPCOUNT|2017-08-18 03:58:11|4
+POPCOUNT|2017-08-18 04:03:18|4
+POPCOUNT|2017-08-18 04:08:25|3
+POPCOUNT|2017-08-18 04:13:32|3
+POPCOUNT|2017-08-18 04:18:40|3
+POPCOUNT|2017-08-18 04:23:47|3
+POPCOUNT|2017-08-18 04:28:03|3
+POPCOUNT|2017-08-18 04:33:10|3
+POPCOUNT|2017-08-18 04:38:17|2
+POPCOUNT|2017-08-18 04:43:24|2
+WRITE_COMPLETE

@@ -1,0 +1,213 @@
+STATLOG_START|1.1|Defficiency|2017.08.05.09.37.23|2017.08.05.19.50.04
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|1065.25
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|7720
+ESCAPEES|1
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2992.320068359375||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2992.64990234375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2993.31005859375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2993.639892578125||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2994.300048828125||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2994.9599609375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2995.2900390625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2995.6201171875||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2995.949951171875||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2996.610107421875||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2996.93994140625||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2997.60009765625||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2998.260009765625||358|440|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2998.590087890625||355|441|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2998.919921875||354|441|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2999.580078125||360|442|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2999.909912109375||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3000.570068359375||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3001.22998046875||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3001.56005859375||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3001.889892578125||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3002.550048828125||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3002.8798828125||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3003.5400390625||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3004.530029296875||470|189|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3004.860107421875||453|189|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3005.18994140625||450|192|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3005.85009765625||468|197|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3006.179931640625||459|199|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3006.840087890625||452|199|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3007.5||456|201|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3007.830078125||472|202|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3008.159912109375||402|315|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3008.820068359375||397|315|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3009.14990234375||400|317|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3009.81005859375||424|76|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3010.469970703125||422|76|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3010.800048828125||420|76|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3011.1298828125||418|76|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3011.7900390625||415|76|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3012.1201171875||424|77|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3012.449951171875||422|77|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3013.110107421875||420|77|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3013.77001953125||418|77|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3013.77001953125||424|78|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3014.10009765625||422|78|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3014.429931640625||420|78|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3014.429931640625||418|78|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3015.090087890625||415|78|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3016.080078125||264|286|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3016.739990234375||260|287|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3017.070068359375||258|288|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3017.39990234375||264|289|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3017.39990234375||173|265|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3018.06005859375||171|265|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3018.389892578125||171|265|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3019.050048828125||171|265|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3019.7099609375||170|273|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3020.0400390625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3020.3701171875||475|410|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3020.699951171875||187|193|6|null|unknown
+MOB_DEATH|/mob/living/carbon/monkey/punpun|null|32933.55078125|Walter Kovacs (as Prro)|242|266|1|null|Pun Pun
+MOB_DEATH|/mob/living/carbon/human|null|65511.80859375|Walter Kovacs (as Prro)|233|272|1|zack4tack|Zack Trycky
+MOB_DEATH|/mob/living/carbon/brain|null|81111.8984375||0|0|0|zack4tack|Zack Trycky
+MOB_DEATH|/mob/living/carbon/human|null|89371.796875|Zack Trycky|475|186|4|zack4tack|Zack Trycky
+MOB_DEATH|/mob/living/carbon/human|null|109531.828125||211|204|1|darkhunter1208|Walter Kovacs
+MOB_DEATH|/mob/living/carbon/human|null|194551.703125|Walter Kovacs (as Prro)|221|280|1|xenonfort|Riddle Riddleson
+MOB_DEATH|/mob/living/carbon/human|null|198211.734375|Caden Blaine|219|280|1|speedyxd|Caden Blaine
+MOB_DEATH|/mob/living/carbon/human|null|245391.84375|Zetra Fursh|247|226|1|zack4tack|Zetra Fursh
+MOB_DEATH|/mob/living/carbon/monkey|null|315812.84375|Deempisi (203)|187|218|1|null|monkey (323)
+MOB_DEATH|/mob/living/carbon/monkey|null|315933.625|Combat Drone|188|220|1|null|monkey (247)
+MOB_DEATH|/mob/living/carbon/monkey|null|315952.4375|the monkey (247)|186|215|1|null|monkey (102)
+MOB_DEATH|/mob/living/carbon/monkey|null|315973.875|the monkey (247)|185|216|1|null|Deempisi (203)
+MOB_DEATH|/mob/living/carbon/monkey|null|348234.6875|Caden Blaine|219|274|1|null|monkey (776)
+MOB_DEATH|/mob/living/carbon/monkey|null|348432.6875|Caden Blaine|0|0|0|null|monkey (640)
+EXPLOSION|255|401|1|0|1|4|4
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|3
+POPCOUNT|2017-08-05 09:42:30|4
+POPCOUNT|2017-08-05 09:47:37|4
+POPCOUNT|2017-08-05 09:52:44|4
+POPCOUNT|2017-08-05 09:57:52|4
+POPCOUNT|2017-08-05 10:02:59|4
+POPCOUNT|2017-08-05 10:08:06|4
+POPCOUNT|2017-08-05 10:13:13|4
+POPCOUNT|2017-08-05 10:17:29|4
+POPCOUNT|2017-08-05 10:22:36|4
+POPCOUNT|2017-08-05 10:27:44|4
+POPCOUNT|2017-08-05 10:32:51|4
+POPCOUNT|2017-08-05 10:37:58|4
+POPCOUNT|2017-08-05 10:43:05|5
+POPCOUNT|2017-08-05 10:48:12|5
+POPCOUNT|2017-08-05 10:53:20|5
+POPCOUNT|2017-08-05 10:58:27|5
+POPCOUNT|2017-08-05 11:03:34|5
+POPCOUNT|2017-08-05 11:08:41|5
+POPCOUNT|2017-08-05 11:12:57|5
+POPCOUNT|2017-08-05 11:18:04|5
+POPCOUNT|2017-08-05 11:23:12|5
+POPCOUNT|2017-08-05 11:28:19|5
+POPCOUNT|2017-08-05 11:33:26|5
+POPCOUNT|2017-08-05 11:38:33|4
+POPCOUNT|2017-08-05 11:43:40|5
+POPCOUNT|2017-08-05 11:48:48|4
+POPCOUNT|2017-08-05 11:53:55|4
+POPCOUNT|2017-08-05 11:59:02|3
+POPCOUNT|2017-08-05 12:03:18|3
+POPCOUNT|2017-08-05 12:08:25|3
+POPCOUNT|2017-08-05 12:13:32|2
+POPCOUNT|2017-08-05 12:18:40|2
+POPCOUNT|2017-08-05 12:23:47|2
+POPCOUNT|2017-08-05 12:28:54|2
+POPCOUNT|2017-08-05 12:34:01|2
+POPCOUNT|2017-08-05 12:39:08|1
+POPCOUNT|2017-08-05 12:44:16|1
+POPCOUNT|2017-08-05 12:48:32|1
+POPCOUNT|2017-08-05 12:53:39|1
+POPCOUNT|2017-08-05 12:58:46|1
+POPCOUNT|2017-08-05 13:03:53|1
+POPCOUNT|2017-08-05 13:09:00|1
+POPCOUNT|2017-08-05 13:14:08|2
+POPCOUNT|2017-08-05 13:19:15|2
+POPCOUNT|2017-08-05 13:24:22|2
+POPCOUNT|2017-08-05 13:29:29|2
+POPCOUNT|2017-08-05 13:33:45|2
+POPCOUNT|2017-08-05 13:38:52|2
+POPCOUNT|2017-08-05 13:44:00|2
+POPCOUNT|2017-08-05 13:49:07|2
+POPCOUNT|2017-08-05 13:54:14|2
+POPCOUNT|2017-08-05 13:59:21|2
+POPCOUNT|2017-08-05 14:04:28|2
+POPCOUNT|2017-08-05 14:09:36|2
+POPCOUNT|2017-08-05 14:14:43|2
+POPCOUNT|2017-08-05 14:18:59|2
+POPCOUNT|2017-08-05 14:24:06|2
+POPCOUNT|2017-08-05 14:29:13|2
+POPCOUNT|2017-08-05 14:34:20|2
+POPCOUNT|2017-08-05 14:39:28|2
+POPCOUNT|2017-08-05 14:44:35|2
+POPCOUNT|2017-08-05 14:49:42|2
+POPCOUNT|2017-08-05 14:54:49|2
+POPCOUNT|2017-08-05 14:59:05|2
+POPCOUNT|2017-08-05 15:04:12|2
+POPCOUNT|2017-08-05 15:09:20|2
+POPCOUNT|2017-08-05 15:14:27|2
+POPCOUNT|2017-08-05 15:19:34|2
+POPCOUNT|2017-08-05 15:24:41|4
+POPCOUNT|2017-08-05 15:29:48|4
+POPCOUNT|2017-08-05 15:34:56|5
+POPCOUNT|2017-08-05 15:40:03|4
+POPCOUNT|2017-08-05 15:45:10|4
+POPCOUNT|2017-08-05 15:49:26|4
+POPCOUNT|2017-08-05 15:54:33|4
+POPCOUNT|2017-08-05 15:59:40|4
+POPCOUNT|2017-08-05 16:04:48|4
+POPCOUNT|2017-08-05 16:09:55|4
+POPCOUNT|2017-08-05 16:15:02|4
+POPCOUNT|2017-08-05 16:20:09|4
+POPCOUNT|2017-08-05 16:25:16|4
+POPCOUNT|2017-08-05 16:29:32|3
+POPCOUNT|2017-08-05 16:34:40|3
+POPCOUNT|2017-08-05 16:39:47|3
+POPCOUNT|2017-08-05 16:44:54|3
+POPCOUNT|2017-08-05 16:50:01|3
+POPCOUNT|2017-08-05 16:55:08|3
+POPCOUNT|2017-08-05 17:00:16|3
+POPCOUNT|2017-08-05 17:05:23|3
+POPCOUNT|2017-08-05 17:09:39|2
+POPCOUNT|2017-08-05 17:14:46|2
+POPCOUNT|2017-08-05 17:19:53|2
+POPCOUNT|2017-08-05 17:25:00|2
+POPCOUNT|2017-08-05 17:30:08|2
+POPCOUNT|2017-08-05 17:35:15|2
+POPCOUNT|2017-08-05 17:40:22|2
+POPCOUNT|2017-08-05 17:45:29|2
+POPCOUNT|2017-08-05 17:49:45|2
+POPCOUNT|2017-08-05 17:54:52|2
+POPCOUNT|2017-08-05 18:00:00|2
+POPCOUNT|2017-08-05 18:05:07|2
+POPCOUNT|2017-08-05 18:10:14|2
+POPCOUNT|2017-08-05 18:15:21|2
+POPCOUNT|2017-08-05 18:20:28|2
+POPCOUNT|2017-08-05 18:25:36|2
+POPCOUNT|2017-08-05 18:29:52|2
+POPCOUNT|2017-08-05 18:34:59|2
+POPCOUNT|2017-08-05 18:40:06|2
+POPCOUNT|2017-08-05 18:45:13|2
+POPCOUNT|2017-08-05 18:50:20|2
+POPCOUNT|2017-08-05 18:55:28|3
+POPCOUNT|2017-08-05 19:00:35|3
+POPCOUNT|2017-08-05 19:05:42|3
+POPCOUNT|2017-08-05 19:09:58|2
+POPCOUNT|2017-08-05 19:15:05|3
+POPCOUNT|2017-08-05 19:20:12|3
+POPCOUNT|2017-08-05 19:25:20|4
+POPCOUNT|2017-08-05 19:30:27|4
+POPCOUNT|2017-08-05 19:35:34|4
+POPCOUNT|2017-08-05 19:40:41|4
+POPCOUNT|2017-08-05 19:45:48|4
+WRITE_COMPLETE

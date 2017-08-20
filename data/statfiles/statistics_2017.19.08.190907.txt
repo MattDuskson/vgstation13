@@ -1,0 +1,62 @@
+STATLOG_START|1.1|Defficiency|2017.08.19.19.09.07|2017.08.19.21.04.19
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|196.945
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-3554
+ESCAPEES|1
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2610.330078125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2610.989990234375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2610.989990234375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2611.320068359375||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2611.64990234375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2611.64990234375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2612.31005859375||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2612.31005859375||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2612.639892578125||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2613.300048828125||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2613.300048828125||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2613.9599609375||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2613.9599609375||388|442|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2614.2900390625||195|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2614.6201171875||116|363|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2614.949951171875||52|372|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2615.610107421875||59|377|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2615.93994140625||89|75|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2616.60009765625||84|75|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2617.260009765625||87|77|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|38610.359375||462|422|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|51450.328125|Alexander Ramos|289|270|1|nicaragua|Cesar Keppel
+MOB_DEATH|/mob/living/carbon/human|null|62070.390625||458|437|5|null|unknown
+EXPLOSION|310|272|1|8|16|24|24
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|3
+POPCOUNT|2017-08-19 19:14:14|1
+POPCOUNT|2017-08-19 19:19:21|1
+POPCOUNT|2017-08-19 19:24:28|2
+POPCOUNT|2017-08-19 19:29:36|2
+POPCOUNT|2017-08-19 19:34:43|2
+POPCOUNT|2017-08-19 19:39:50|3
+POPCOUNT|2017-08-19 19:44:57|3
+POPCOUNT|2017-08-19 19:49:13|3
+POPCOUNT|2017-08-19 19:54:20|3
+POPCOUNT|2017-08-19 19:59:28|3
+POPCOUNT|2017-08-19 20:04:35|3
+POPCOUNT|2017-08-19 20:09:42|3
+POPCOUNT|2017-08-19 20:14:49|3
+POPCOUNT|2017-08-19 20:19:56|3
+POPCOUNT|2017-08-19 20:25:04|3
+POPCOUNT|2017-08-19 20:29:20|3
+POPCOUNT|2017-08-19 20:34:27|3
+POPCOUNT|2017-08-19 20:39:34|3
+POPCOUNT|2017-08-19 20:44:41|4
+POPCOUNT|2017-08-19 20:49:48|4
+POPCOUNT|2017-08-19 20:54:56|4
+POPCOUNT|2017-08-19 21:00:03|4
+WRITE_COMPLETE

@@ -1,0 +1,76 @@
+STATLOG_START|1.1|Defficiency|2017.08.02.01.07.31|2017.08.02.03.01.52
+MASTERMODE|secret
+GAMEMODE|traitor
+TECH_TOTAL|10
+BLOOD_SPILLED|632.96
+CRATES_ORDERED|1
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|2407
+ESCAPEES|3
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2924.030029296875||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2924.360107421875||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2924.360107421875||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2924.68994140625||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2925.35009765625||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2925.679931640625||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2926.340087890625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2927||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2927.330078125||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2927.659912109375||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2928.320068359375||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2928.64990234375||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2929.31005859375||245|113|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2929.969970703125||241|114|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2931.2900390625||239|115|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2931.949951171875||245|116|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2932.610107421875||213|99|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2932.93994140625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2933.60009765625||218|116|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2934.260009765625||170|145|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2934.590087890625||168|145|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2934.919921875||168|145|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2935.580078125||168|145|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2935.909912109375||167|153|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2936.570068359375||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2937.22998046875||415|78|6|null|unknown
+MOB_DEATH|/mob/living/carbon/monkey/punpun|null|11443.3095703125||243|265|1|null|Pun Pun
+MOB_DEATH|/mob/living/carbon/human|null|13783.009765625||448|51|6|saviorpwns|Onizuka
+MOB_DEATH|/mob/living/carbon/human|null|14455.5498046875|Captain|224|244|1|baredo|Seymour Picard
+MOB_DEATH|/mob/living/carbon/human|null|37038.76953125|Seymour Picard (as Unknown)|231|203|1|sensorr|Jameson Bashline
+MOB_DEATH|/mob/living/carbon/human|null|56783||269|227|1|baredo|Seymour Picard
+MOB_DEATH|/mob/living/carbon/human|traitor|63603.109375|Siegfried Nibelungen|225|287|1|nicaragua|PLIM PLIM
+UPLINK_ITEM|nicaragua|PLIM PLIM|1|/datum/uplink_item/device_tools/emag|/obj/item/weapon/card/emag
+UPLINK_ITEM|nicaragua|PLIM PLIM|1|/datum/uplink_item/jobspecific/livingballoons|/obj/item/weapon/storage/box/balloons/long/living
+UPLINK_ITEM|nicaragua|PLIM PLIM|1|/datum/uplink_item/jobspecific/clowngrenade|/obj/item/weapon/grenade/clown_grenade
+UPLINK_ITEM|nicaragua|PLIM PLIM|1|/datum/uplink_item/jobspecific/bananagun|/obj/item/weapon/gun/projectile/banana
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+ANTAG_OBJ|PLIM PLIM|Nicaragua|traitor|/datum/objective/assassinate|K'rlos Nlaard|Research Director|K'rlos Nlaard|0|Assassinate K'rlos Nlaard, the Research Director.
+ANTAG_OBJ|PLIM PLIM|Nicaragua|traitor|/datum/objective/escape|0|Escape on the shuttle or an escape pod alive and free.
+POPCOUNT|2017-08-02 01:12:38|8
+POPCOUNT|2017-08-02 01:17:45|8
+POPCOUNT|2017-08-02 01:22:52|7
+POPCOUNT|2017-08-02 01:28:00|6
+POPCOUNT|2017-08-02 01:33:07|6
+POPCOUNT|2017-08-02 01:38:14|6
+POPCOUNT|2017-08-02 01:43:21|6
+POPCOUNT|2017-08-02 01:48:28|6
+POPCOUNT|2017-08-02 01:53:36|7
+POPCOUNT|2017-08-02 01:58:43|7
+POPCOUNT|2017-08-02 02:03:50|7
+POPCOUNT|2017-08-02 02:08:57|6
+POPCOUNT|2017-08-02 02:14:04|6
+POPCOUNT|2017-08-02 02:19:12|6
+POPCOUNT|2017-08-02 02:24:19|6
+POPCOUNT|2017-08-02 02:29:26|5
+POPCOUNT|2017-08-02 02:33:42|5
+POPCOUNT|2017-08-02 02:38:49|5
+POPCOUNT|2017-08-02 02:43:56|4
+POPCOUNT|2017-08-02 02:49:04|4
+POPCOUNT|2017-08-02 02:54:11|4
+POPCOUNT|2017-08-02 02:59:18|3
+WRITE_COMPLETE

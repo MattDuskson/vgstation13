@@ -1,0 +1,63 @@
+STATLOG_START|1.1|Defficiency|2017.08.17.18.52.54|2017.08.17.20.10.33
+MASTERMODE|secret
+GAMEMODE|traitor
+TECH_TOTAL|10
+BLOOD_SPILLED|323.53
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|2897
+ESCAPEES|3
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|5915.93017578125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5915.93017578125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5916.58984375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5916.919921875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5917.25||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5917.580078125||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5918.89990234375||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5919.56005859375||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5920.22021484375||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5920.5498046875||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5921.2099609375||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5921.8701171875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5922.52978515625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5923.18994140625||195|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5923.52001953125||193|287|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5923.85009765625||364|432|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5924.18017578125||88|359|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|24633.859375||208|83|6|null|unknown
+MOB_DEATH|/mob/living/carbon/slime|null|36074.30078125||194|255|1|null|grey slime (183)
+MOB_DEATH|/mob/living/carbon/human|null|46114.87890625|Alexander Ramos|224|287|1|anthares|Magic Jhonson
+MOB_DEATH|/mob/living/carbon/human|null|49953.76953125||0|0|0|anthares|unknown
+UPLINK_ITEM|ergonomico||1|/datum/uplink_item/jobspecific/invisible_spray|/obj/item/weapon/invisible_spray/permanent
+UPLINK_ITEM|ergonomico||1|/datum/uplink_item/jobspecific/invisible_spray|/obj/item/weapon/invisible_spray/permanent
+UPLINK_ITEM|ergonomico||1|/datum/uplink_item/jobspecific/clowngrenade|/obj/item/weapon/grenade/clown_grenade
+UPLINK_ITEM|ergonomico||1|/datum/uplink_item/badass/raincoat|/obj/item/clothing/suit/raincoat
+UPLINK_ITEM|ergonomico||1|/datum/uplink_item/jobspecific/clowngrenade|/obj/item/weapon/grenade/clown_grenade
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|1
+ANTAG_OBJ|Ergonomico|Sexador|traitor|/datum/objective/assassinate|Alexander Ramos|Medical Doctor|Alexander Ramos|0|Assassinate Alexander Ramos, the Medical Doctor.
+ANTAG_OBJ|Ergonomico|Sexador|traitor|/datum/objective/siliconsurvive|1|Remain functional until the end.
+ANTAG_OBJ||Ergonomico|traitor|/datum/objective/steal|1|Steal a sample of slime extract.
+ANTAG_OBJ||Ergonomico|traitor|/datum/objective/escape|1|Escape on the shuttle or an escape pod alive and free.
+ANTAG_OBJ||Ergonomico|traitor|/datum/objective/steal|1|Steal a hypospray.
+ANTAG_OBJ||Ergonomico|traitor|/datum/objective/survive|1|Stay alive until the end.
+POPCOUNT|2017-08-17 18:58:01|6
+POPCOUNT|2017-08-17 19:03:08|6
+POPCOUNT|2017-08-17 19:08:16|6
+POPCOUNT|2017-08-17 19:13:23|6
+POPCOUNT|2017-08-17 19:18:30|6
+POPCOUNT|2017-08-17 19:22:46|6
+POPCOUNT|2017-08-17 19:27:53|6
+POPCOUNT|2017-08-17 19:33:00|6
+POPCOUNT|2017-08-17 19:38:08|6
+POPCOUNT|2017-08-17 19:43:15|6
+POPCOUNT|2017-08-17 19:48:22|6
+POPCOUNT|2017-08-17 19:53:29|7
+POPCOUNT|2017-08-17 19:58:36|6
+POPCOUNT|2017-08-17 20:03:44|7
+POPCOUNT|2017-08-17 20:08:51|7
+WRITE_COMPLETE

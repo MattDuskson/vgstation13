@@ -1,0 +1,89 @@
+STATLOG_START|1.1|Defficiency|2017.08.05.20.00.19|2017.08.05.22.02.20
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|1332.97
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-4977
+ESCAPEES|4
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2978.18994140625||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.52001953125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.52001953125||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.85009765625||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.179931640625||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.179931640625||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.840087890625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.840087890625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.169921875||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.830078125||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.489990234375||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.820068359375||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.14990234375||238|236|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.81005859375||235|237|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.139892578125||234|237|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.800048828125||240|238|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.4599609375||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.7900390625||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.110107421875||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.77001953125||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.429931640625||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.760009765625||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2988.090087890625||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2988.419921875||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2989.080078125||360|404|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2989.409912109375||358|404|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2990.070068359375||358|404|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2990.72998046875||358|404|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2991.06005859375||357|412|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2991.389892578125||366|160|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2992.050048828125||361|160|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2992.3798828125||364|162|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2993.0400390625||381|350|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2993.699951171875||388|355|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2994.030029296875||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2994.360107421875||461|334|6|null|unknown
+MOB_DEATH|/mob/living/carbon/monkey|null|30118.05078125|Walter Kovacs|224|287|1|null|monkey (136)
+MOB_DEATH|/mob/living/carbon/human|null|32597.33984375||221|228|1|nicaragua|PLIM PLIM
+MOB_DEATH|/mob/living/carbon/human|null|32617.470703125|Walter Kovacs|217|261|1|gajehe|Gabriel Hernandez
+MOB_DEATH|/mob/living/carbon/brain|null|34297.5||0|0|0|gajehe|Gabriel Hernandez
+MOB_DEATH|/mob/living/carbon/human|null|58597.7109375||208|192|1|notthebees|D'lock Na'goth
+MOB_DEATH|/mob/living/carbon/human|Vox Raider|61182.6015625||167|307|1|nicaragua|Kahchayayakah
+MOB_DEATH|/mob/living/carbon/human|null|62367.30078125|Siegfried Nibelungen|213|205|1|fretxiz|Bairon Palone
+MOB_DEATH|/mob/living/carbon/human|null|75138.9609375|Siegfried Nibelungen|15|242|2|xenonfort|Riddle Riddleson
+MOB_DEATH|/mob/living/carbon/human|null|75359.0703125|Yichayikahtiha|13|244|2|baredo|Burt Faqua
+EXPLOSION|310|272|1|8|16|24|24
+EXPLOSION|204|188|1|-1|-1|2|2
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+ANTAG_OBJ|Kahchayayakah|Nicaragua|Vox Raider|/datum/objective/steal|0|Steal the captain's antique laser gun.
+ANTAG_OBJ|Kahchayayakah|Nicaragua|Vox Raider|/datum/objective/escape|0|Escape on the shuttle or an escape pod alive and free.
+POPCOUNT|2017-08-05 20:05:26|3
+POPCOUNT|2017-08-05 20:10:33|3
+POPCOUNT|2017-08-05 20:15:40|4
+POPCOUNT|2017-08-05 20:20:48|4
+POPCOUNT|2017-08-05 20:25:55|3
+POPCOUNT|2017-08-05 20:31:02|4
+POPCOUNT|2017-08-05 20:35:18|4
+POPCOUNT|2017-08-05 20:40:25|4
+POPCOUNT|2017-08-05 20:45:32|4
+POPCOUNT|2017-08-05 20:50:40|5
+POPCOUNT|2017-08-05 20:55:47|5
+POPCOUNT|2017-08-05 21:00:54|5
+POPCOUNT|2017-08-05 21:06:01|5
+POPCOUNT|2017-08-05 21:11:08|7
+POPCOUNT|2017-08-05 21:16:16|8
+POPCOUNT|2017-08-05 21:21:23|8
+POPCOUNT|2017-08-05 21:25:39|8
+POPCOUNT|2017-08-05 21:30:46|8
+POPCOUNT|2017-08-05 21:35:53|8
+POPCOUNT|2017-08-05 21:41:00|8
+POPCOUNT|2017-08-05 21:46:08|9
+POPCOUNT|2017-08-05 21:51:15|8
+POPCOUNT|2017-08-05 21:56:22|8
+POPCOUNT|2017-08-05 22:01:29|8
+WRITE_COMPLETE

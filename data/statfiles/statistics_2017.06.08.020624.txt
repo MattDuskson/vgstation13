@@ -1,0 +1,76 @@
+STATLOG_START|1.1|Defficiency|2017.08.06.02.06.24|2017.08.06.03.41.58
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|20
+BLOOD_SPILLED|185.865
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-3566
+ESCAPEES|2
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|3021.510009765625||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3022.169921875||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3022.5||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3022.830078125||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3023.159912109375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3023.159912109375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3023.820068359375||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3023.820068359375||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3024.14990234375||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3024.14990234375||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3024.81005859375||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3025.469970703125||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3025.800048828125||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3026.1298828125||404|163|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3027.1201171875||123|461|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3027.449951171875||120|462|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3028.110107421875||119|462|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3028.77001953125||125|463|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3029.10009765625||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3029.429931640625||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3030.090087890625||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3030.419921875||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3031.080078125||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3031.739990234375||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3032.070068359375||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3032.39990234375||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3033.06005859375||396|213|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3033.389892578125||379|213|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3034.050048828125||376|216|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3034.7099609375||394|221|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3035.0400390625||385|223|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3035.3701171875||378|223|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3035.699951171875||382|225|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3036.360107421875||398|226|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3037.35009765625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3038.340087890625||360|384|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3038.669921875||367|389|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5980.9501953125||121|243|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|30670.890625|Josue Howard|316|274|1|speedyxd|Caden Blaine
+EXPLOSION|269|295|5|1|3|5|5
+EXPLOSION|310|272|1|8|16|24|24
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|1
+POPCOUNT|2017-08-06 02:11:31|3
+POPCOUNT|2017-08-06 02:16:38|3
+POPCOUNT|2017-08-06 02:20:54|3
+POPCOUNT|2017-08-06 02:26:01|3
+POPCOUNT|2017-08-06 02:31:08|3
+POPCOUNT|2017-08-06 02:36:16|3
+POPCOUNT|2017-08-06 02:41:23|3
+POPCOUNT|2017-08-06 02:46:30|3
+POPCOUNT|2017-08-06 02:51:37|3
+POPCOUNT|2017-08-06 02:56:44|3
+POPCOUNT|2017-08-06 03:01:00|3
+POPCOUNT|2017-08-06 03:06:08|3
+POPCOUNT|2017-08-06 03:11:15|3
+POPCOUNT|2017-08-06 03:16:22|4
+POPCOUNT|2017-08-06 03:21:29|4
+POPCOUNT|2017-08-06 03:26:36|4
+POPCOUNT|2017-08-06 03:31:44|4
+POPCOUNT|2017-08-06 03:36:51|4
+POPCOUNT|2017-08-06 03:41:07|4
+WRITE_COMPLETE

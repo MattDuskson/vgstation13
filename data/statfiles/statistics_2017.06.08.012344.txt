@@ -1,0 +1,35 @@
+STATLOG_START|1.1|Defficiency|2017.08.06.01.23.44|2017.08.06.01.56.09
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|17
+BLOOD_SPILLED|0
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-1522
+ESCAPEES|4
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2912.89990234375||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2913.56005859375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2913.56005859375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2913.889892578125||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2913.889892578125||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2914.550048828125||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2914.550048828125||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2915.2099609375||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2915.2099609375||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2915.5400390625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2915.8701171875||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2915.8701171875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|9632.6904296875|Captain|96|411|6|madpredar1|Keaton Singh
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+POPCOUNT|2017-08-06 01:28:00|6
+POPCOUNT|2017-08-06 01:33:07|5
+POPCOUNT|2017-08-06 01:38:14|5
+POPCOUNT|2017-08-06 01:43:21|5
+POPCOUNT|2017-08-06 01:48:28|5
+POPCOUNT|2017-08-06 01:53:36|6
+WRITE_COMPLETE

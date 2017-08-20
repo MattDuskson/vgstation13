@@ -1,0 +1,120 @@
+STATLOG_START|1.1|Defficiency|2017.08.05.22.12.35|2017.08.06.01.13.29
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|1818.51
+CRATES_ORDERED|3
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|3004
+ESCAPEES|7
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2947.18994140625||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2947.85009765625||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2947.85009765625||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2948.510009765625||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2948.510009765625||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2948.840087890625||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2948.840087890625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2949.169921875||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2949.830078125||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2950.159912109375||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2950.820068359375||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2951.47998046875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2953.1298828125||70|407|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2953.7900390625||53|407|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2954.449951171875||50|410|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2954.780029296875||68|415|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2955.110107421875||59|417|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2955.43994140625||52|417|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2956.10009765625||56|419|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2956.429931640625||72|420|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2957.75||195|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2958.080078125||193|287|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2958.409912109375||366|316|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2959.070068359375||87|451|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2959.39990234375||82|451|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2960.06005859375||85|453|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|54588.55859375||250|260|1|baredo|Leroy Foster
+MOB_DEATH|/mob/living/carbon/human|null|55948.48828125||0|0|0|baredo|Leroy Foster
+MOB_DEATH|/mob/living/carbon/human|null|58228.12890625|Julius Philips|227|274|1|baredo|Leroy Foster
+MOB_DEATH|/mob/living/carbon/human|null|59668.25|Julius Philips|227|274|1|baredo|Leroy Foster
+MOB_DEATH|/mob/living/carbon/human|null|63208.16015625|D'lock Na'goth|234|266|1|baredo|Leroy Foster
+MOB_DEATH|/mob/living/carbon/human|null|63488|Unknown (as Walter Kovacs)|269|262|1|agustinesquiroz|Solomon Jowers
+MOB_DEATH|/mob/living/carbon/human|null|64548.2890625||234|293|1|inckog1212|Jakob Ellis
+MOB_DEATH|/mob/living/carbon/human|null|68588.1484375|Julius Philips|224|287|1|baredo|Leroy Foster
+MOB_DEATH|/mob/living/carbon/monkey|null|78127.4609375||0|0|0|null|monkey (915)
+MOB_DEATH|/mob/living/carbon/human|null|81129.140625|Julius Philips|224|287|1|notthebees|D'lock Na'goth
+MOB_DEATH|/mob/living/carbon/human|null|87827.4765625|Unknown (as Walter Kovacs)|257|260|1|darkhunter1208|Walter Kovacs
+MOB_DEATH|/mob/living/carbon/human|null|98228.421875|PLIM PLIM|236|195|1|fretxiz|Bairon Palone
+MOB_DEATH|/mob/living/carbon/human|null|98723.75|Nick Fox|279|210|1|kieranwise|Axel Villeneuve
+MOB_DEATH|/mob/living/carbon/human|null|100907.359375|Julius Philips|225|279|1|null|Minnie Bluetenberger
+MOB_DEATH|/mob/living/carbon/monkey|null|108988.0703125|the monkey (985)|286|247|1|null|monkey (708)
+MOB_DEATH|/mob/living/carbon/monkey|null|109408.15625|the monkey (708)|286|244|1|null|monkey (985)
+MOB_DEATH|/mob/living/carbon/brain|null|110047.3671875||0|0|0|darkhunter1208|Walter Kovacs
+EXPLOSION|249|313|5|1|3|5|5
+EXPLOSION|235|163|1|-1|1|3|3
+EXPLOSION|167|190|1|-1|1|3|3
+EXPLOSION|283|179|1|-1|1|3|3
+EXPLOSION|175|190|1|-1|1|3|3
+EXPLOSION|292|193|1|-1|1|3|3
+EXPLOSION|301|218|1|-1|1|3|3
+EXPLOSION|274|175|1|-1|1|3|3
+EXPLOSION|286|182|1|-1|1|3|3
+EXPLOSION|185|186|1|-1|1|3|3
+EXPLOSION|274|175|1|-1|1|3|3
+EXPLOSION|290|193|1|-1|1|3|3
+EXPLOSION|308|250|1|-1|1|3|3
+EXPLOSION|336|275|1|-1|1|3|3
+EXPLOSION|332|280|1|-1|1|3|3
+EXPLOSION|220|331|1|-1|1|3|3
+EXPLOSION|235|310|1|-1|1|3|3
+EXPLOSION|222|305|1|-1|1|3|3
+EXPLOSION|330|305|1|-1|1|3|3
+EXPLOSION|187|286|1|-1|1|3|3
+EXPLOSION|202|292|1|-1|1|3|3
+EXPLOSION|195|290|1|-1|1|3|3
+EXPLOSION|176|284|1|-1|1|3|3
+EXPLOSION|336|261|1|-1|1|3|3
+EXPLOSION|179|211|1|-1|1|3|3
+EXPLOSION|245|285|1|1|2|4|4
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|5
+POPCOUNT|2017-08-05 22:17:42|8
+POPCOUNT|2017-08-05 22:21:58|8
+POPCOUNT|2017-08-05 22:27:05|8
+POPCOUNT|2017-08-05 22:32:12|8
+POPCOUNT|2017-08-05 22:37:20|8
+POPCOUNT|2017-08-05 22:42:27|9
+POPCOUNT|2017-08-05 22:47:34|10
+POPCOUNT|2017-08-05 22:52:41|10
+POPCOUNT|2017-08-05 22:57:48|9
+POPCOUNT|2017-08-05 23:02:56|9
+POPCOUNT|2017-08-05 23:07:12|9
+POPCOUNT|2017-08-05 23:12:19|9
+POPCOUNT|2017-08-05 23:17:26|10
+POPCOUNT|2017-08-05 23:22:33|10
+POPCOUNT|2017-08-05 23:27:40|10
+POPCOUNT|2017-08-05 23:32:48|8
+POPCOUNT|2017-08-05 23:37:55|9
+POPCOUNT|2017-08-05 23:43:02|10
+POPCOUNT|2017-08-05 23:48:09|10
+POPCOUNT|2017-08-05 23:53:16|10
+POPCOUNT|2017-08-05 23:58:24|10
+POPCOUNT|2017-08-06 00:02:40|9
+POPCOUNT|2017-08-06 00:07:47|10
+POPCOUNT|2017-08-06 00:12:54|10
+POPCOUNT|2017-08-06 00:18:01|10
+POPCOUNT|2017-08-06 00:23:08|10
+POPCOUNT|2017-08-06 00:28:16|10
+POPCOUNT|2017-08-06 00:33:23|10
+POPCOUNT|2017-08-06 00:38:30|9
+POPCOUNT|2017-08-06 00:43:37|8
+POPCOUNT|2017-08-06 00:48:44|9
+POPCOUNT|2017-08-06 00:53:52|8
+POPCOUNT|2017-08-06 00:58:59|8
+POPCOUNT|2017-08-06 01:04:06|9
+POPCOUNT|2017-08-06 01:09:13|9
+WRITE_COMPLETE

@@ -1,0 +1,115 @@
+STATLOG_START|1.1|Defficiency|2017.08.01.23.21.42|2017.08.02.00.56.25
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|2029.62
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-1612
+ESCAPEES|5
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2754.8798828125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2755.5400390625||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2756.199951171875||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2756.530029296875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2756.860107421875||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2757.18994140625||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2757.85009765625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2758.179931640625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2758.840087890625||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2759.5||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2759.830078125||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2760.159912109375||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2760.820068359375||333|92|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2761.14990234375||329|93|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2761.81005859375||327|94|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2762.469970703125||333|95|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2762.800048828125||87|243|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2763.1298828125||85|243|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2763.7900390625||83|243|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2764.1201171875||81|243|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2764.449951171875||78|243|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2765.110107421875||87|244|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2765.77001953125||85|244|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2766.10009765625||83|244|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2766.429931640625||81|244|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2767.090087890625||87|245|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2767.419921875||85|245|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2768.080078125||83|245|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2768.739990234375||81|245|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2769.070068359375||78|245|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2769.39990234375||225|441|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2770.06005859375||232|446|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2770.389892578125||200|90|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2771.050048828125||183|90|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2771.7099609375||180|93|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2772.0400390625||198|98|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2772.3701171875||189|100|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2772.699951171875||182|100|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2773.360107421875||186|102|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2773.68994140625||202|103|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2775.010009765625||413|315|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2776.330078125||410|316|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2776.989990234375||409|316|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2777.64990234375||415|317|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2777.97998046875||232|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2778.31005859375||231|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2778.639892578125||221|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2779.300048828125||217|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2779.6298828125||233|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2780.2900390625||212|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2780.949951171875||233|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2781.280029296875||231|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2781.610107421875||195|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2781.93994140625||193|287|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2782.60009765625||148|77|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|9852.1904296875||470|121|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|17253.4296875|Ranso Forne.|483|442|3|gonzalo1254|Ana-Lisa Mel Choto
+MOB_DEATH|/mob/living/carbon/human|null|19912.900390625|PLIM PLIM|106|463|5|ignaciom|K'rlos Nlaard
+MOB_DEATH|/mob/living/carbon/human|null|19972.30078125|PLIM PLIM|146|452|5|vicenzo33333|Rei Ayanami
+MOB_DEATH|/mob/living/carbon/human|null|24812.080078125||466|135|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|31633.509765625|Ana-Lisa Mel Choto|240|269|1|cipoteancho|Ahmed Mustafa
+MOB_DEATH|/mob/living/carbon/monkey|null|33892.69140625|Kilrogg|222|269|1|null|monkey (762)
+MOB_DEATH|/mob/living/carbon/monkey|null|45232.48046875||175|272|1|null|monkey (881)
+MOB_DEATH|/mob/living/carbon/human|null|47572.51171875|John English|281|233|1|xenonfort|Riddle Riddleson
+MOB_DEATH|/mob/living/carbon/human|null|47592.96875|Riddle Riddleson|269|276|1|deepinsideme|Mandy Mahoney
+MOB_DEATH|/mob/living/carbon/human|null|51191.94921875|Lawrence Hussain|224|278|1|deepinsideme|Mandy Mahoney
+MOB_DEATH|/mob/living/carbon/human|null|52614.91015625|Miliki|243|269|1|baredo|Fernando Powell
+MOB_DEATH|/mob/living/carbon/human|null|52733.7109375|PLIM PLIM|232|264|1|honkeador|Miliki
+MOB_DEATH|/mob/living/carbon/monkey/punpun|null|52952.5|PLIM PLIM|247|269|1|null|Pun Pun
+MOB_DEATH|/mob/living/carbon/human|null|53112.21875|Linux Torvalds|231|239|1|poonix|Wendy Nebulae
+MOB_DEATH|/mob/living/carbon/human|null|53113.2109375|Ana-Lisa Mel Choto|237|280|1|iharmonyi|Kilrogg
+MOB_DEATH|/mob/living/carbon/human|null|53113.87109375|Kilrogg|221|280|1|cipoteancho|Ahmed Mustafa
+MOB_DEATH|/mob/living/carbon/human|null|53132.3515625|PLIM PLIM|230|209|1|vicenzo33333|Rei Ayanami
+MOB_DEATH|/mob/living/carbon/human|null|53133.01171875|PLIM PLIM|224|206|1|ignaciom|K'rlos Nlaard
+MOB_DEATH|/mob/living/carbon/human|null|53133.671875|Kilrogg|219|280|1|gonzalo1254|Ana-Lisa Mel Choto
+MOB_DEATH|/mob/living/carbon/human|null|53756.7109375|Lawrence Hussain|227|274|1|deepinsideme|Mandy Mahoney
+MOB_DEATH|/mob/living/carbon/human|null|56533.66015625|Lawrence Hussain|201|179|1|deepinsideme|Mandy Mahoney
+MOB_DEATH|/mob/living/carbon/human|null|57352.71875|PLIM PLIM|18|244|2|honkeador|Miliki
+MOB_DEATH|/mob/living/carbon/human|null|57452.05078125|Redom Duck|13|240|2|deepinsideme|Mandy Mahoney
+MOB_DEATH|/mob/living/carbon/human|null|57691.9609375|PLIM PLIM|23|242|2|honkeador|Miliki
+EXPLOSION|226|304|1|1|2|4|4
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|8
+POPCOUNT|2017-08-01 23:27:40|14
+POPCOUNT|2017-08-01 23:31:56|14
+POPCOUNT|2017-08-01 23:37:04|13
+POPCOUNT|2017-08-01 23:42:11|13
+POPCOUNT|2017-08-01 23:47:18|14
+POPCOUNT|2017-08-01 23:52:25|14
+POPCOUNT|2017-08-01 23:57:32|15
+POPCOUNT|2017-08-02 00:02:40|15
+POPCOUNT|2017-08-02 00:07:47|15
+POPCOUNT|2017-08-02 00:12:54|15
+POPCOUNT|2017-08-02 00:18:01|15
+POPCOUNT|2017-08-02 00:23:08|14
+POPCOUNT|2017-08-02 00:28:16|13
+POPCOUNT|2017-08-02 00:33:23|13
+POPCOUNT|2017-08-02 00:39:21|13
+POPCOUNT|2017-08-02 00:44:28|14
+POPCOUNT|2017-08-02 00:49:36|13
+POPCOUNT|2017-08-02 00:54:43|12
+WRITE_COMPLETE

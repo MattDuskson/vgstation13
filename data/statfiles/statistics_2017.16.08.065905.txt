@@ -1,0 +1,71 @@
+STATLOG_START|1.1|Defficiency|2017.08.16.06.59.05|2017.08.16.18.13.13
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|831.394
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|337
+ESCAPEES|0
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|1280.27001953125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1280.5999755859375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1280.5999755859375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1280.9300537109375||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1280.9300537109375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1281.260009765625||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1281.5899658203125||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1281.9200439453125||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1281.9200439453125||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1282.25||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1282.25||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1282.5799560546875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1282.9100341796875||132|185|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1283.239990234375||128|186|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1283.5699462890625||126|187|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1283.9000244140625||132|188|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|1284.22998046875||90|230|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|48500.9609375||230|241|1|agustinesquiroz|Solomon Jowers
+MOB_DEATH|/mob/living/carbon/human|null|53219.9609375|Jakob Ellis|0|0|0|agustinesquiroz|Solomon Jowers
+MOB_DEATH|/mob/living/carbon/human|null|58640.2109375|Justin Conrad|229|275|1|agustinesquiroz|Solomon Jowers
+MOB_DEATH|/mob/living/carbon/human|null|74002.703125||248|272|1|inckog1212|Jakob Ellis
+MOB_DEATH|/mob/living/carbon/human|null|74540.2734375||248|280|1|dark2122|Grayson Mitchell
+MOB_DEATH|/mob/living/carbon/human|null|88119.7734375||216|137|1|inckog1212|Jakob Ellis
+MOB_DEATH|/mob/living/carbon/human|null|88161.0234375||225|183|1|agustinesquiroz|Solomon Jowers
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+POPCOUNT|2017-08-16 07:04:12|1
+POPCOUNT|2017-08-16 15:11:28|1
+POPCOUNT|2017-08-16 15:16:35|1
+POPCOUNT|2017-08-16 15:21:42|1
+POPCOUNT|2017-08-16 15:26:49|1
+POPCOUNT|2017-08-16 15:31:56|2
+POPCOUNT|2017-08-16 15:37:04|4
+POPCOUNT|2017-08-16 15:41:20|4
+POPCOUNT|2017-08-16 15:46:27|4
+POPCOUNT|2017-08-16 15:51:34|4
+POPCOUNT|2017-08-16 15:56:41|4
+POPCOUNT|2017-08-16 16:01:48|4
+POPCOUNT|2017-08-16 16:06:56|4
+POPCOUNT|2017-08-16 16:12:03|4
+POPCOUNT|2017-08-16 16:16:19|4
+POPCOUNT|2017-08-16 16:21:26|4
+POPCOUNT|2017-08-16 16:26:33|4
+POPCOUNT|2017-08-16 16:31:40|3
+POPCOUNT|2017-08-16 16:36:48|2
+POPCOUNT|2017-08-16 16:41:55|1
+POPCOUNT|2017-08-16 17:22:01|1
+POPCOUNT|2017-08-16 17:26:17|2
+POPCOUNT|2017-08-16 17:31:24|2
+POPCOUNT|2017-08-16 17:36:32|2
+POPCOUNT|2017-08-16 17:41:39|2
+POPCOUNT|2017-08-16 17:46:46|2
+POPCOUNT|2017-08-16 17:51:53|2
+POPCOUNT|2017-08-16 17:57:00|2
+POPCOUNT|2017-08-16 18:02:08|2
+POPCOUNT|2017-08-16 18:06:24|2
+POPCOUNT|2017-08-16 18:11:31|2
+WRITE_COMPLETE

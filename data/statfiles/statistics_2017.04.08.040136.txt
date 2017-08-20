@@ -1,0 +1,99 @@
+STATLOG_START|1.1|Defficiency|2017.08.04.04.01.36|2017.08.04.06.52.16
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|292.735
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-2511
+ESCAPEES|2
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2965.39990234375||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2966.389892578125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2966.389892578125||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.050048828125||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.050048828125||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.7099609375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.0400390625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.3701171875||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.699951171875||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2969.360107421875||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2969.68994140625||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2970.35009765625||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2971.340087890625||91|169|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2971.669921875||86|169|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.330078125||89|171|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.659912109375||309|456|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2973.320068359375||307|456|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2973.97998046875||305|456|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2974.31005859375||303|456|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2974.639892578125||300|456|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.300048828125||309|457|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.6298828125||307|457|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.2900390625||305|457|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.949951171875||303|457|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.280029296875||309|458|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.610107421875||307|458|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.93994140625||305|458|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.60009765625||303|458|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.929931640625||300|458|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.590087890625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.25||483|124|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.909912109375||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.89990234375||413|199|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.56005859375||410|200|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.219970703125||409|200|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.550048828125||415|201|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.8798828125||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.5400390625||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.8701171875||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2985.199951171875||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2985.860107421875||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.52001953125||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.85009765625||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.179931640625||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|11945.6904296875||159|299|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|42865.69921875||157|282|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|53161.69921875|Josue Howard|291|268|1|xenonfort|Riddle Riddleson
+MOB_DEATH|/mob/living/carbon/human|null|57245.44921875|Josue Howard|253|282|1|xenonfort|Riddle Riddleson
+MOB_DEATH|/mob/living/carbon/human|null|57553.33984375||253|278|1|normalguy|Josue Howard
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|1
+POPCOUNT|2017-08-04 04:06:43|3
+POPCOUNT|2017-08-04 04:11:50|3
+POPCOUNT|2017-08-04 04:16:57|3
+POPCOUNT|2017-08-04 04:22:04|3
+POPCOUNT|2017-08-04 04:27:12|3
+POPCOUNT|2017-08-04 04:31:28|3
+POPCOUNT|2017-08-04 04:36:35|3
+POPCOUNT|2017-08-04 04:41:42|3
+POPCOUNT|2017-08-04 04:46:49|3
+POPCOUNT|2017-08-04 04:51:56|3
+POPCOUNT|2017-08-04 04:57:04|3
+POPCOUNT|2017-08-04 05:02:11|3
+POPCOUNT|2017-08-04 05:06:27|3
+POPCOUNT|2017-08-04 05:11:34|3
+POPCOUNT|2017-08-04 05:16:41|3
+POPCOUNT|2017-08-04 05:21:48|3
+POPCOUNT|2017-08-04 05:26:56|3
+POPCOUNT|2017-08-04 05:32:03|3
+POPCOUNT|2017-08-04 05:37:10|3
+POPCOUNT|2017-08-04 05:41:26|3
+POPCOUNT|2017-08-04 05:46:33|3
+POPCOUNT|2017-08-04 05:51:40|3
+POPCOUNT|2017-08-04 05:56:48|3
+POPCOUNT|2017-08-04 06:01:55|3
+POPCOUNT|2017-08-04 06:07:02|2
+POPCOUNT|2017-08-04 06:12:09|3
+POPCOUNT|2017-08-04 06:17:16|3
+POPCOUNT|2017-08-04 06:21:32|3
+POPCOUNT|2017-08-04 06:26:40|3
+POPCOUNT|2017-08-04 06:31:47|3
+POPCOUNT|2017-08-04 06:36:54|3
+POPCOUNT|2017-08-04 06:42:01|3
+POPCOUNT|2017-08-04 06:47:08|3
+POPCOUNT|2017-08-04 06:52:16|3
+WRITE_COMPLETE

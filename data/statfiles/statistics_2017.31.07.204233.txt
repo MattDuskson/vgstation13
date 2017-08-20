@@ -1,0 +1,122 @@
+STATLOG_START|1.1|Defficiency|2017.07.31.20.42.33|2017.08.01.23.11.28
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|46
+BLOOD_SPILLED|1663.43
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|5684
+ESCAPEES|5
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2956.919921875||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2957.909912109375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2958.570068359375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2958.570068359375||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2958.89990234375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2958.89990234375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2959.56005859375||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2960.219970703125||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2960.219970703125||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2960.550048828125||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2960.550048828125||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2960.8798828125||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2961.5400390625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|33336.05859375||71|341|6|null|unknown
+MOB_DEATH|/mob/living/carbon/slime/black|null|126676.2265625||257|270|1|null|black slime (982)
+MOB_DEATH|/mob/living/carbon/slime/red|null|126676.2265625||258|269|1|null|red slime (436)
+MOB_DEATH|/mob/living/carbon/slime/bluespace|null|126776.21875||258|268|1|null|bluespace slime (455)
+MOB_DEATH|/mob/living/carbon/slime/adamantine|null|127035.9296875||263|273|1|null|adamantine slime (872)
+MOB_DEATH|/mob/living/carbon/human|null|137243.8125|Unknown (as Koichi Kizakura)|246|489|1|thecrazyvagrant|Koichi Kizakura
+MOB_DEATH|/mob/living/carbon/human|null|178240.046875|Kilrogg|269|199|1|cenode|Bastisimo
+MOB_DEATH|/mob/living/silicon/robot/mommi|null|182088.84375||172|222|4|cenode|Bastisimo
+MOB_DEATH|/mob/living/carbon/human|null|202634.640625|Unknown (as Anthony Forest)|221|258|1|godtitan|Anthony Forest
+MOB_DEATH|/mob/living/carbon/human|null|210516.359375||251|273|1|chicoborax|Stuart Pot
+MOB_DEATH|/mob/living/carbon/human|null|211796.4375||265|243|1|sexador|Liam Yeskey
+MOB_DEATH|/mob/living/carbon/human|null|212436.625|Kilrogg|230|230|1|vicenzo33333|Mariano Rajoy
+MOB_DEATH|/mob/living/carbon/human|null|212496.6875|PLIM PLIM|232|232|1|iharmonyi|Kilrogg
+MOB_DEATH|/mob/living/carbon/human|null|220376.09375|Miracle Brindle|229|269|1|aurumcu|Wyatt Dennis
+MOB_DEATH|/mob/living/carbon/human|null|222757.046875||213|184|1|baredo|Luca Graham
+UPLINK_ITEM|nicaragua|PLIM PLIM|1|/datum/uplink_item/jobspecific/banannon|/obj/item/weapon/gun/banannon
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|5
+ANTAG_OBJ|PLIM PLIM|Nicaragua|traitor|/datum/objective|1|Estas harto de los atropellos del personal de esta estación, te tomaras tu propia venganza por lo que te han hecho sufrir, cueste lo que cueste. 
+ANTAG_OBJ|PLIM PLIM|Nicaragua|traitor|/datum/objective/assassinate|Kilrogg|Security Officer|Kilrogg|1|Assassinate Kilrogg, the Security Officer.
+ANTAG_OBJ|PLIM PLIM|Nicaragua|traitor|/datum/objective/assassinate|Luca Graham|Head of Security|Luca Graham|1|Assassinate Luca Graham, the Head of Security.
+ANTAG_OBJ|PLIM PLIM|Nicaragua|traitor|/datum/objective/steal|0|Steal a tank transfer valve.
+POPCOUNT|2017-07-31 20:47:40|1
+POPCOUNT|2017-07-31 20:52:48|1
+POPCOUNT|2017-07-31 20:57:04|1
+POPCOUNT|2017-07-31 21:02:11|1
+POPCOUNT|2017-07-31 21:07:18|1
+POPCOUNT|2017-07-31 21:12:25|1
+POPCOUNT|2017-07-31 21:17:32|1
+POPCOUNT|2017-07-31 21:22:40|1
+POPCOUNT|2017-07-31 21:27:47|1
+POPCOUNT|2017-07-31 21:32:03|1
+POPCOUNT|2017-07-31 21:37:10|1
+POPCOUNT|2017-07-31 21:42:17|1
+POPCOUNT|2017-07-31 21:47:24|1
+POPCOUNT|2017-07-31 21:52:32|1
+POPCOUNT|2017-07-31 21:57:39|1
+POPCOUNT|2017-07-31 22:02:46|1
+POPCOUNT|2017-07-31 22:07:02|1
+POPCOUNT|2017-07-31 22:12:09|1
+POPCOUNT|2017-07-31 22:17:16|1
+POPCOUNT|2017-07-31 22:22:24|1
+POPCOUNT|2017-07-31 22:27:31|1
+POPCOUNT|2017-07-31 22:32:38|1
+POPCOUNT|2017-08-01 17:59:08|0
+POPCOUNT|2017-08-01 18:59:44|1
+POPCOUNT|2017-08-01 19:04:51|1
+POPCOUNT|2017-08-01 19:09:58|1
+POPCOUNT|2017-08-01 19:15:05|1
+POPCOUNT|2017-08-01 19:19:21|1
+POPCOUNT|2017-08-01 19:24:28|1
+POPCOUNT|2017-08-01 19:29:36|1
+POPCOUNT|2017-08-01 19:34:43|2
+POPCOUNT|2017-08-01 19:39:50|2
+POPCOUNT|2017-08-01 19:44:57|3
+POPCOUNT|2017-08-01 19:50:04|4
+POPCOUNT|2017-08-01 19:55:12|4
+POPCOUNT|2017-08-01 19:59:28|4
+POPCOUNT|2017-08-01 20:04:35|4
+POPCOUNT|2017-08-01 20:09:42|5
+POPCOUNT|2017-08-01 20:14:49|5
+POPCOUNT|2017-08-01 20:19:56|6
+POPCOUNT|2017-08-01 20:25:04|8
+POPCOUNT|2017-08-01 20:31:02|9
+POPCOUNT|2017-08-01 20:36:09|8
+POPCOUNT|2017-08-01 20:41:16|8
+POPCOUNT|2017-08-01 20:46:24|8
+POPCOUNT|2017-08-01 20:51:31|9
+POPCOUNT|2017-08-01 20:56:38|9
+POPCOUNT|2017-08-01 21:01:45|9
+POPCOUNT|2017-08-01 21:06:52|9
+POPCOUNT|2017-08-01 21:12:00|9
+POPCOUNT|2017-08-01 21:16:16|10
+POPCOUNT|2017-08-01 21:22:14|10
+POPCOUNT|2017-08-01 21:27:21|11
+POPCOUNT|2017-08-01 21:32:28|12
+POPCOUNT|2017-08-01 21:36:44|12
+POPCOUNT|2017-08-01 21:41:52|14
+POPCOUNT|2017-08-01 21:47:50|14
+POPCOUNT|2017-08-01 21:52:57|15
+POPCOUNT|2017-08-01 21:58:04|16
+POPCOUNT|2017-08-01 22:03:12|15
+POPCOUNT|2017-08-01 22:08:19|15
+POPCOUNT|2017-08-01 22:13:26|14
+POPCOUNT|2017-08-01 22:18:33|13
+POPCOUNT|2017-08-01 22:23:40|13
+POPCOUNT|2017-08-01 22:28:48|12
+POPCOUNT|2017-08-01 22:33:55|13
+POPCOUNT|2017-08-01 22:39:02|9
+POPCOUNT|2017-08-01 22:44:09|10
+POPCOUNT|2017-08-01 22:49:16|11
+POPCOUNT|2017-08-01 22:54:24|12
+POPCOUNT|2017-08-01 22:59:31|13
+POPCOUNT|2017-08-01 23:04:38|13
+POPCOUNT|2017-08-01 23:09:45|13
+WRITE_COMPLETE

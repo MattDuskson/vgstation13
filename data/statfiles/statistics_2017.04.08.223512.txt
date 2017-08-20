@@ -1,0 +1,62 @@
+STATLOG_START|1.1|Defficiency|2017.08.04.22.35.12|2017.08.05.00.03.05
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|875.601
+CRATES_ORDERED|1
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|2493
+ESCAPEES|3
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|4568.009765625||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4568.33984375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4568.33984375||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4568.669921875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4569||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4569.330078125||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4569.66015625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4569.990234375||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4570.31982421875||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4570.97998046875||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4571.31005859375||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4571.64013671875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4571.97021484375||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4572.2998046875||125|219|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4573.2900390625||317|414|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4573.6201171875||313|415|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4573.9501953125||311|416|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4574.27978515625||317|417|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4574.93994140625||417|65|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4575.27001953125||412|65|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|4575.60009765625||415|67|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|30238.380859375|Kaleb Hall|216|242|1|devichurro|Dave
+MOB_DEATH|/mob/living/carbon/brain|null|30247.619140625||0|0|0|devichurro|Dave
+MOB_DEATH|/mob/living/carbon/monkey|null|39548.01171875||176|272|1|null|monkey (818)
+MOB_DEATH|/mob/living/carbon/monkey|null|39588.26953125||190|243|1|null|monkey (686)
+MOB_DEATH|/mob/living/carbon/monkey|null|39588.26953125||188|239|1|null|monkey (331)
+MOB_DEATH|/mob/living/silicon/robot|null|50307.66015625|Samuel Ackerley|212|201|1|devichurro|Dave
+MOB_DEATH|/mob/living/carbon/human|null|52755.6015625|Samuel Ackerley|227|206|1|deepinsideme|Miracle Brindle
+EXPLOSION|177|235|1|1|2|4|4
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|4
+POPCOUNT|2017-08-04 22:40:19|5
+POPCOUNT|2017-08-04 22:45:26|6
+POPCOUNT|2017-08-04 22:50:33|6
+POPCOUNT|2017-08-04 22:55:40|5
+POPCOUNT|2017-08-04 23:00:48|4
+POPCOUNT|2017-08-04 23:05:55|6
+POPCOUNT|2017-08-04 23:11:02|6
+POPCOUNT|2017-08-04 23:15:18|6
+POPCOUNT|2017-08-04 23:20:25|5
+POPCOUNT|2017-08-04 23:25:32|6
+POPCOUNT|2017-08-04 23:30:40|6
+POPCOUNT|2017-08-04 23:35:47|6
+POPCOUNT|2017-08-04 23:40:54|5
+POPCOUNT|2017-08-04 23:46:01|5
+POPCOUNT|2017-08-04 23:51:08|5
+POPCOUNT|2017-08-04 23:56:16|4
+POPCOUNT|2017-08-05 00:01:23|3
+WRITE_COMPLETE

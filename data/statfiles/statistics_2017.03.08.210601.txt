@@ -1,0 +1,80 @@
+STATLOG_START|1.1|Defficiency|2017.08.03.21.06.01|2017.08.03.23.55.50
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|701.418
+CRATES_ORDERED|1
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|4713
+ESCAPEES|5
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2928.139892578125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2928.800048828125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2928.800048828125||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2929.4599609375||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2929.4599609375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2929.7900390625||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2929.7900390625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2930.1201171875||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2930.1201171875||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2930.449951171875||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2931.110107421875||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2931.43994140625||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2932.10009765625||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2933.090087890625||85|338|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2933.419921875||80|338|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2934.080078125||83|340|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2934.409912109375||370|424|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2935.070068359375||368|424|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2935.72998046875||368|424|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2936.06005859375||368|424|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2937.3798828125||367|432|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2938.0400390625||446|170|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2939.030029296875||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2939.360107421875||264|142|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|64187.69140625|Daniel Mueller|267|196|1|fidelius|Ahmed Mustafus
+MOB_DEATH|/mob/living/carbon/human|null|69267.7109375||201|282|1|fidelius|Ismael Mccullough
+MOB_DEATH|/mob/living/carbon/human|null|92788.7890625|Ian Lightbringer|263|237|1|caranguejo|Fernando Garcia
+MOB_DEATH|/mob/living/carbon/human|null|96108.59375|Riddle Riddleson|235|263|1|tilk1|PLIM PLIM
+MOB_DEATH|/mob/living/carbon/human|null|98024.5703125|Ian Lightbringer|266|297|1|null|Unknown (as Fernando Garcia)
+MOB_DEATH|/mob/living/carbon/human|null|100247.78125|Daniel Mueller|0|0|0|darkhunter1208|Walter Kovacs
+EXPLOSION|273|182|1|-1|0|1|1
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+POPCOUNT|2017-08-03 21:11:08|4
+POPCOUNT|2017-08-03 21:16:16|5
+POPCOUNT|2017-08-03 21:21:23|6
+POPCOUNT|2017-08-03 21:26:30|6
+POPCOUNT|2017-08-03 21:31:37|5
+POPCOUNT|2017-08-03 21:36:44|5
+POPCOUNT|2017-08-03 21:41:52|6
+POPCOUNT|2017-08-03 21:46:59|6
+POPCOUNT|2017-08-03 21:52:06|6
+POPCOUNT|2017-08-03 21:57:13|6
+POPCOUNT|2017-08-03 22:02:20|6
+POPCOUNT|2017-08-03 22:07:28|6
+POPCOUNT|2017-08-03 22:11:44|6
+POPCOUNT|2017-08-03 22:16:51|6
+POPCOUNT|2017-08-03 22:21:58|6
+POPCOUNT|2017-08-03 22:27:05|6
+POPCOUNT|2017-08-03 22:32:12|6
+POPCOUNT|2017-08-03 22:37:20|6
+POPCOUNT|2017-08-03 22:42:27|6
+POPCOUNT|2017-08-03 22:47:34|6
+POPCOUNT|2017-08-03 22:52:41|6
+POPCOUNT|2017-08-03 22:57:48|7
+POPCOUNT|2017-08-03 23:02:56|7
+POPCOUNT|2017-08-03 23:08:03|8
+POPCOUNT|2017-08-03 23:13:10|8
+POPCOUNT|2017-08-03 23:18:17|7
+POPCOUNT|2017-08-03 23:23:24|7
+POPCOUNT|2017-08-03 23:28:32|10
+POPCOUNT|2017-08-03 23:33:39|9
+POPCOUNT|2017-08-03 23:38:46|11
+POPCOUNT|2017-08-03 23:43:53|11
+POPCOUNT|2017-08-03 23:49:00|11
+POPCOUNT|2017-08-03 23:54:08|11
+WRITE_COMPLETE

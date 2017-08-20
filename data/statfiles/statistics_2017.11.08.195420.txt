@@ -1,0 +1,76 @@
+STATLOG_START|1.1|Defficiency|2017.08.11.19.54.20|2017.08.11.21.17.07
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|190.159
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-437
+ESCAPEES|0
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2975.56005859375||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.219970703125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.550048828125||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.8701171875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.8701171875||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.530029296875||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.530029296875||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.18994140625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.52001953125||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.85009765625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.85009765625||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.179931640625||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.840087890625||235|69|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.169921875||166|181|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.830078125||161|181|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.489990234375||164|183|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.820068359375||236|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.14990234375||234|287|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.81005859375||106|330|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.139892578125||65|291|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.800048828125||62|292|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2985.4599609375||61|292|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2985.7900390625||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.1201171875||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.449951171875||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.110107421875||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.43994140625||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2988.10009765625||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2988.760009765625||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2989.090087890625||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|29535.609375||306|272|1|deepinsideme|Miracle Brindle
+EXPLOSION|299|262|1|8|10|12|12
+EXPLOSION|295|255|1|1|2|4|4
+EXPLOSION|302|256|1|1|2|3|3
+EXPLOSION|302|256|1|1|2|3|3
+EXPLOSION|302|256|1|1|2|3|3
+EXPLOSION|302|255|1|1|2|3|3
+EXPLOSION|302|255|1|1|2|3|3
+EXPLOSION|302|255|1|1|2|3|3
+EXPLOSION|302|258|1|1|2|3|3
+EXPLOSION|302|258|1|1|2|3|3
+EXPLOSION|302|264|1|1|2|3|3
+EXPLOSION|302|264|1|1|2|3|3
+EXPLOSION|302|264|1|1|2|3|3
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|1
+POPCOUNT|2017-08-11 19:59:28|1
+POPCOUNT|2017-08-11 20:04:35|1
+POPCOUNT|2017-08-11 20:09:42|2
+POPCOUNT|2017-08-11 20:14:49|2
+POPCOUNT|2017-08-11 20:19:56|2
+POPCOUNT|2017-08-11 20:24:12|2
+POPCOUNT|2017-08-11 20:29:20|2
+POPCOUNT|2017-08-11 20:34:27|2
+POPCOUNT|2017-08-11 20:39:34|2
+POPCOUNT|2017-08-11 20:44:41|2
+POPCOUNT|2017-08-11 20:49:48|2
+POPCOUNT|2017-08-11 20:54:56|1
+POPCOUNT|2017-08-11 21:00:03|1
+POPCOUNT|2017-08-11 21:04:19|1
+POPCOUNT|2017-08-11 21:09:26|1
+POPCOUNT|2017-08-11 21:14:33|1
+WRITE_COMPLETE

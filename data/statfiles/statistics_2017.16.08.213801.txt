@@ -1,0 +1,82 @@
+STATLOG_START|1.1|Defficiency|2017.08.16.21.38.01|2017.08.17.00.07.21
+MASTERMODE|secret
+GAMEMODE|traitor
+TECH_TOTAL|64
+BLOOD_SPILLED|584.285
+CRATES_ORDERED|2
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|4167
+ESCAPEES|4
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|3439.93994140625||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3440.60009765625||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3440.929931640625||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3441.590087890625||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3442.25||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3442.580078125||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3442.909912109375||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3443.570068359375||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3443.89990234375||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3444.56005859375||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3445.219970703125||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3445.550048828125||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3445.8798828125||397|397|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3446.5400390625||380|397|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3446.8701171875||377|400|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3447.199951171875||395|405|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3447.860107421875||386|407|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3448.52001953125||379|407|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3448.85009765625||383|409|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3449.179931640625||399|410|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3450.169921875||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3450.830078125||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3451.489990234375||150|190|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3452.14990234375||417|368|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3452.81005859375||424|373|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|21678.7109375||0|0|0|null|Keaton Moore
+MOB_DEATH|/mob/living/carbon/human|null|62718.828125|Alexander Ramos|252|280|1|agustinesquiroz|Solomon Jowers
+MOB_DEATH|/mob/living/carbon/human|null|70499.5703125|Jakob Ellis|218|269|1|inckog1212|Jakob Ellis
+MOB_DEATH|/mob/living/carbon/human|traitor|70499.8984375||243|287|1|anthares|Danny Hill
+MOB_DEATH|/mob/living/carbon/human|null|78659.1484375|Jack Dimeling (as PLIM PLIM)|0|0|0|agustinesquiroz|Solomon Jowers
+MOB_DEATH|/mob/living/carbon/human|null|85199.09375|Alexander Ramos|0|0|0|agustinesquiroz|Solomon Jowers
+EXPLOSION|202|189|1|-1|0|2|2
+UPLINK_ITEM|anthares|Danny Hill|1|/datum/uplink_item/device_tools/thermal|/obj/item/clothing/glasses/thermal/syndi
+UPLINK_ITEM|anthares|Danny Hill|1|/datum/uplink_item/device_tools/plastic_explosives|/obj/item/weapon/plastique
+UPLINK_ITEM|anthares|Danny Hill|1|/datum/uplink_item/device_tools/emag|/obj/item/weapon/card/emag
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|4
+ANTAG_OBJ|Danny Hill|Anthares|traitor|/datum/objective/steal|0|Steal the captain's pinpointer.
+ANTAG_OBJ|Danny Hill|Anthares|traitor|/datum/objective/escape|0|Escape on the shuttle or an escape pod alive and free.
+POPCOUNT|2017-08-16 21:43:08|7
+POPCOUNT|2017-08-16 21:48:16|7
+POPCOUNT|2017-08-16 21:53:23|7
+POPCOUNT|2017-08-16 21:58:30|8
+POPCOUNT|2017-08-16 22:02:46|8
+POPCOUNT|2017-08-16 22:07:53|7
+POPCOUNT|2017-08-16 22:13:00|9
+POPCOUNT|2017-08-16 22:18:08|8
+POPCOUNT|2017-08-16 22:23:15|8
+POPCOUNT|2017-08-16 22:28:22|8
+POPCOUNT|2017-08-16 22:33:29|8
+POPCOUNT|2017-08-16 22:38:36|8
+POPCOUNT|2017-08-16 22:43:44|8
+POPCOUNT|2017-08-16 22:48:51|8
+POPCOUNT|2017-08-16 22:53:07|7
+POPCOUNT|2017-08-16 22:58:14|7
+POPCOUNT|2017-08-16 23:03:21|7
+POPCOUNT|2017-08-16 23:08:28|7
+POPCOUNT|2017-08-16 23:13:36|7
+POPCOUNT|2017-08-16 23:18:43|7
+POPCOUNT|2017-08-16 23:23:50|7
+POPCOUNT|2017-08-16 23:28:57|7
+POPCOUNT|2017-08-16 23:34:04|6
+POPCOUNT|2017-08-16 23:38:20|5
+POPCOUNT|2017-08-16 23:43:28|6
+POPCOUNT|2017-08-16 23:48:35|5
+POPCOUNT|2017-08-16 23:53:42|5
+POPCOUNT|2017-08-16 23:58:49|5
+POPCOUNT|2017-08-17 00:03:56|5
+WRITE_COMPLETE

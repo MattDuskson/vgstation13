@@ -1,0 +1,77 @@
+STATLOG_START|1.1|Defficiency|2017.08.06.03.52.12|2017.08.06.04.54.30
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|20
+BLOOD_SPILLED|834.595
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-4593
+ESCAPEES|0
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2964.800048828125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2965.4599609375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2965.7900390625||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2966.1201171875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2966.449951171875||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.110107421875||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2967.43994140625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.10009765625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2968.760009765625||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2969.090087890625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2969.419921875||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2970.080078125||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2971.72998046875||73|178|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.06005859375||71|178|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2972.389892578125||71|178|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2973.050048828125||71|178|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2973.3798828125||70|186|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2974.0400390625||236|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2974.699951171875||87|241|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.030029296875||439|389|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.360107421875||436|390|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.68994140625||435|390|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.35009765625||441|391|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.679931640625||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.340087890625||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.330078125||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.659912109375||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.320068359375||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.64990234375||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.31005859375||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2980.969970703125||305|362|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.300048828125||312|367|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.6298828125||79|297|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.2900390625||62|297|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.6201171875||59|300|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.949951171875||77|305|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.610107421875||68|307|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.27001953125||61|307|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.60009765625||65|309|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2985.260009765625||81|310|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|23903.30078125|Unknown (as Caden Blaine)|310|273|1|speedyxd|Caden Blaine
+MOB_DEATH|/mob/living/carbon/human|null|24183.470703125|Unknown (as Caden Blaine)|305|275|1|nicaragua|Cesar Keppel
+MOB_DEATH|/mob/living/carbon/human|null|24187.759765625|Cesar Keppel|306|274|1|nachofrio|Cole Peters
+MOB_DEATH|/mob/living/carbon/human|null|29314.970703125|Cesar Keppel|222|227|3|notthebees|D'lock Na'goth
+MOB_DEATH|/mob/living/carbon/monkey|null|30343.91015625||287|227|1|null|monkey (788)
+MOB_DEATH|/mob/living/carbon/monkey|null|30403.970703125||290|226|1|null|monkey (911)
+MOB_DEATH|/mob/living/carbon/human|null|39844.609375|Caden Blaine (as Captain)|211|189|1|nicaragua|PLIM PLIM
+EXPLOSION|310|272|1|8|16|24|24
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|1
+POPCOUNT|2017-08-06 03:57:20|3
+POPCOUNT|2017-08-06 04:02:27|3
+POPCOUNT|2017-08-06 04:07:34|3
+POPCOUNT|2017-08-06 04:12:41|4
+POPCOUNT|2017-08-06 04:17:48|4
+POPCOUNT|2017-08-06 04:22:04|4
+POPCOUNT|2017-08-06 04:27:12|4
+POPCOUNT|2017-08-06 04:32:19|3
+POPCOUNT|2017-08-06 04:37:26|3
+POPCOUNT|2017-08-06 04:42:33|3
+POPCOUNT|2017-08-06 04:47:40|2
+POPCOUNT|2017-08-06 04:52:48|2
+WRITE_COMPLETE

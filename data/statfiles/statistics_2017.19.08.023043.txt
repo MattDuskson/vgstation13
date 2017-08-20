@@ -1,0 +1,73 @@
+STATLOG_START|1.1|Defficiency|2017.08.19.02.30.43|2017.08.19.04.19.56
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|322.678
+CRATES_ORDERED|1
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|-2301
+ESCAPEES|1
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2807.31005859375||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2807.639892578125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2807.639892578125||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2808.300048828125||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2808.9599609375||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2808.9599609375||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2809.2900390625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2809.2900390625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2809.6201171875||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2809.949951171875||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2810.610107421875||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2810.610107421875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2811.60009765625||309|405|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2812.260009765625||305|406|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2812.260009765625||303|407|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2812.590087890625||309|408|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2812.919921875||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2813.580078125||407|237|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2813.909912109375||404|238|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2814.570068359375||403|238|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2815.22998046875||409|239|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2815.56005859375||232|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2815.889892578125||231|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2816.550048828125||221|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2816.8798828125||217|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2817.5400390625||233|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2818.199951171875||212|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2818.530029296875||233|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2818.860107421875||231|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2819.18994140625||157|158|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2820.179931640625||195|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2820.840087890625||449|328|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2821.5||57|125|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2821.830078125||64|130|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|58467.421875|PLIM PLIM|217|265|1|understr1k3|Alexander Ramos
+MOB_DEATH|/mob/living/carbon/human|null|61896.44921875||227|208|1|nicaragua|PLIM PLIM
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|2
+POPCOUNT|2017-08-19 02:35:50|1
+POPCOUNT|2017-08-19 02:40:57|1
+POPCOUNT|2017-08-19 02:46:04|1
+POPCOUNT|2017-08-19 02:51:12|1
+POPCOUNT|2017-08-19 02:55:28|1
+POPCOUNT|2017-08-19 03:00:35|1
+POPCOUNT|2017-08-19 03:05:42|1
+POPCOUNT|2017-08-19 03:10:49|1
+POPCOUNT|2017-08-19 03:15:56|2
+POPCOUNT|2017-08-19 03:21:04|2
+POPCOUNT|2017-08-19 03:26:11|2
+POPCOUNT|2017-08-19 03:30:27|2
+POPCOUNT|2017-08-19 03:35:34|2
+POPCOUNT|2017-08-19 03:40:41|2
+POPCOUNT|2017-08-19 03:45:48|2
+POPCOUNT|2017-08-19 03:50:56|2
+POPCOUNT|2017-08-19 03:56:03|2
+POPCOUNT|2017-08-19 04:01:10|2
+POPCOUNT|2017-08-19 04:06:17|2
+POPCOUNT|2017-08-19 04:10:33|2
+POPCOUNT|2017-08-19 04:15:40|2
+WRITE_COMPLETE

@@ -1,0 +1,82 @@
+STATLOG_START|1.1|Defficiency|2017.08.17.20.22.30|2017.08.17.23.10.36
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|42
+BLOOD_SPILLED|1181.58
+CRATES_ORDERED|8
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|3589
+ESCAPEES|4
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|3956.969970703125||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3957.300048828125||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3957.6298828125||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3958.2900390625||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3958.6201171875||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3958.949951171875||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3959.610107421875||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3960.27001953125||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3960.60009765625||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3960.929931640625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3961.590087890625||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3961.919921875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3962.580078125||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3963.89990234375||442|100|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|3964.889892578125||77|429|4|null|unknown
+MOB_DEATH|/mob/living/silicon/robot|null|4506.419921875||239|268|1|ergonomico|Default Cyborg-586
+MOB_DEATH|/mob/living/carbon/human|null|20101.890625|Alexander Ramos|0|0|0|baredo|Jack Dimeling
+MOB_DEATH|/mob/living/carbon/human|null|25475.939453125||260|296|1|baredo|Jack Dimeling
+MOB_DEATH|/mob/living/carbon/human|null|27976.01953125|Miracle Brindle|292|273|1|memador|Clemente
+MOB_DEATH|/mob/living/carbon/human|null|39616.44140625||485|437|3|zack4tack|Plasma Fursh
+MOB_DEATH|/mob/living/silicon/robot/mommi|null|41880.5703125||302|304|4|zack4tack|Plasma Fursh
+MOB_DEATH|/mob/living/carbon/monkey|null|91956.75|Alexander Ramos|225|298|1|null|monkey (26)
+MOB_DEATH|/mob/living/carbon/human|null|94229.7890625|Unknown|189|195|1|xenonfort|Unknown
+MOB_DEATH|/mob/living/carbon/human|null|96680.0390625|Miracle Brindle|217|230|1|anthares|Unknown
+MOB_DEATH|/mob/living/carbon/human|null|99376.140625|Axel Villeneuve|248|272|1|kieranwise|Axel Villeneuve
+EXPLOSION|266|280|1|1|2|4|4
+EXPLOSION|189|195|1|-1|-1|1|1
+EXPLOSION|177|235|1|1|2|4|4
+EXPLOSION|219|191|1|-1|2|4|4
+EXPLOSION|287|206|1|1|2|4|4
+EXPLOSION|310|272|1|8|16|24|24
+UPLINK_ITEM|superchris111|Ron Jester|1|/datum/uplink_item/dangerous/revolver|/obj/item/weapon/gun/projectile
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|5
+ANTAG_OBJ|Ron Jester|superchris111|traitor|/datum/objective/steal|0|Steal the head of security's jumpsuit.
+ANTAG_OBJ|Ron Jester|superchris111|traitor|/datum/objective/escape|0|Escape on the shuttle or an escape pod alive and free.
+POPCOUNT|2017-08-17 20:27:37|8
+POPCOUNT|2017-08-17 20:32:44|8
+POPCOUNT|2017-08-17 20:37:52|9
+POPCOUNT|2017-08-17 20:42:59|9
+POPCOUNT|2017-08-17 20:47:15|10
+POPCOUNT|2017-08-17 20:52:22|10
+POPCOUNT|2017-08-17 20:57:29|10
+POPCOUNT|2017-08-17 21:02:36|11
+POPCOUNT|2017-08-17 21:07:44|12
+POPCOUNT|2017-08-17 21:12:51|13
+POPCOUNT|2017-08-17 21:18:49|13
+POPCOUNT|2017-08-17 21:23:56|12
+POPCOUNT|2017-08-17 21:29:04|12
+POPCOUNT|2017-08-17 21:33:20|12
+POPCOUNT|2017-08-17 21:38:27|11
+POPCOUNT|2017-08-17 21:43:34|9
+POPCOUNT|2017-08-17 21:48:41|9
+POPCOUNT|2017-08-17 21:53:48|9
+POPCOUNT|2017-08-17 21:58:56|9
+POPCOUNT|2017-08-17 22:04:03|8
+POPCOUNT|2017-08-17 22:09:10|8
+POPCOUNT|2017-08-17 22:14:17|9
+POPCOUNT|2017-08-17 22:19:24|8
+POPCOUNT|2017-08-17 22:24:32|9
+POPCOUNT|2017-08-17 22:29:39|10
+POPCOUNT|2017-08-17 22:34:46|9
+POPCOUNT|2017-08-17 22:39:53|9
+POPCOUNT|2017-08-17 22:45:00|9
+POPCOUNT|2017-08-17 22:50:08|9
+POPCOUNT|2017-08-17 22:55:15|9
+POPCOUNT|2017-08-17 23:02:04|9
+POPCOUNT|2017-08-17 23:07:12|9
+WRITE_COMPLETE

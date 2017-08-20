@@ -1,0 +1,77 @@
+STATLOG_START|1.1|Defficiency|2017.08.02.03.17.13|2017.08.02.15.47.18
+MASTERMODE|secret
+GAMEMODE|AutoTraitor
+TECH_TOTAL|10
+BLOOD_SPILLED|115.241
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|1122
+ESCAPEES|1
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|5949.009765625||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5949.33984375||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5949.669921875||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950.330078125||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950.330078125||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950.66015625||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950.66015625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950.990234375||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5950.990234375||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5951.31982421875||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5951.97998046875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5952.31005859375||84|342|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5952.64013671875||81|343|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5952.97021484375||80|343|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5953.2998046875||86|344|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5953.9599609375||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5954.2900390625||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5954.6201171875||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5954.9501953125||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5955.27978515625||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5955.93994140625||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5956.27001953125||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5956.60009765625||414|174|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5956.93017578125||410|175|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5957.259765625||408|176|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5957.919921875||414|177|3|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5958.25||0|0|0|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|5958.580078125||234|413|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|18808.779296875||229|52|6|nicaragua|PLIM PLIM
+MOB_DEATH|/mob/living/carbon/human|null|53795.37890625||241|270|1|sonjoaquin|Linux Torvalds
+MOB_DEATH|/mob/living/carbon/human|null|54028.69140625|Linux Torvalds|241|271|1|thecrazyvagrant|Ana Bohueles
+MOB_DEATH|/mob/living/carbon/human|null|88189.6328125|Riddle Riddleson (as Captain)|0|0|0|sonjoaquin|Linux Torvalds
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|1
+POPCOUNT|2017-08-02 03:22:20|1
+POPCOUNT|2017-08-02 03:27:28|1
+POPCOUNT|2017-08-02 03:32:35|1
+POPCOUNT|2017-08-02 03:37:42|1
+POPCOUNT|2017-08-02 03:41:58|1
+POPCOUNT|2017-08-02 13:55:31|1
+POPCOUNT|2017-08-02 14:00:38|1
+POPCOUNT|2017-08-02 14:05:45|1
+POPCOUNT|2017-08-02 14:10:01|1
+POPCOUNT|2017-08-02 14:15:08|2
+POPCOUNT|2017-08-02 14:20:16|4
+POPCOUNT|2017-08-02 14:25:23|4
+POPCOUNT|2017-08-02 14:30:30|4
+POPCOUNT|2017-08-02 14:35:37|3
+POPCOUNT|2017-08-02 14:40:44|3
+POPCOUNT|2017-08-02 14:45:52|3
+POPCOUNT|2017-08-02 14:50:08|3
+POPCOUNT|2017-08-02 14:55:15|3
+POPCOUNT|2017-08-02 15:00:22|3
+POPCOUNT|2017-08-02 15:05:29|3
+POPCOUNT|2017-08-02 15:10:36|3
+POPCOUNT|2017-08-02 15:15:44|3
+POPCOUNT|2017-08-02 15:20:51|3
+POPCOUNT|2017-08-02 15:25:58|3
+POPCOUNT|2017-08-02 15:30:14|3
+POPCOUNT|2017-08-02 15:35:21|3
+POPCOUNT|2017-08-02 15:40:28|3
+POPCOUNT|2017-08-02 15:45:36|3
+WRITE_COMPLETE

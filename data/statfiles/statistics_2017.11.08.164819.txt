@@ -1,0 +1,85 @@
+STATLOG_START|1.1|Defficiency|2017.08.11.16.48.19|2017.08.11.19.41.32
+MASTERMODE|extended
+GAMEMODE|extended
+TECH_TOTAL|10
+BLOOD_SPILLED|489.104
+CRATES_ORDERED|0
+ARTIFACTS_DISCOVERED|0
+CREWSCORE|1890
+ESCAPEES|1
+NUKED|0
+MOB_DEATH|/mob/living/carbon/human|null|2974.9599609375||303|158|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.2900390625||312|154|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.2900390625||311|152|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.6201171875||314|151|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.949951171875||442|259|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2975.949951171875||112|132|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.610107421875||63|115|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2976.93994140625||61|112|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2977.60009765625||88|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.260009765625||85|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.590087890625||82|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2978.919921875||79|108|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.580078125||236|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2979.909912109375||234|287|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2981.889892578125||250|126|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2982.8798828125||458|393|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2983.5400390625||313|442|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.199951171875||311|442|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.530029296875||311|442|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2984.860107421875||311|442|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2985.18994140625||310|450|6|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.179931640625||421|172|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2986.840087890625||418|173|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.5||417|173|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2987.830078125||423|174|5|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2988.159912109375||206|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2988.820068359375||205|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2989.14990234375||195|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2989.81005859375||191|284|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2990.469970703125||207|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2990.800048828125||186|285|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2991.1298828125||207|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|2991.7900390625||205|286|2|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|33333.96875||81|124|4|null|unknown
+MOB_DEATH|/mob/living/carbon/human|null|101875.9609375|Axel Villeneuve|237|200|1|anthares|Justin Conrad
+CULTSTATS|0|0|0|0|0|0|0|0|0
+XENOSTATS|0|0|0
+BLOBSTATS|0|0|0|0
+MALFSTATS|0|0|0
+REVSQUADSTATS|0|3
+POPCOUNT|2017-08-11 16:53:26|1
+POPCOUNT|2017-08-11 16:58:33|1
+POPCOUNT|2017-08-11 17:03:40|1
+POPCOUNT|2017-08-11 17:07:56|1
+POPCOUNT|2017-08-11 17:13:04|1
+POPCOUNT|2017-08-11 17:18:11|1
+POPCOUNT|2017-08-11 17:23:18|1
+POPCOUNT|2017-08-11 17:28:25|1
+POPCOUNT|2017-08-11 17:33:32|1
+POPCOUNT|2017-08-11 17:38:40|1
+POPCOUNT|2017-08-11 17:43:47|1
+POPCOUNT|2017-08-11 17:48:03|1
+POPCOUNT|2017-08-11 17:53:10|1
+POPCOUNT|2017-08-11 17:58:17|1
+POPCOUNT|2017-08-11 18:03:24|1
+POPCOUNT|2017-08-11 18:08:32|1
+POPCOUNT|2017-08-11 18:13:39|1
+POPCOUNT|2017-08-11 18:18:46|1
+POPCOUNT|2017-08-11 18:23:53|1
+POPCOUNT|2017-08-11 18:29:00|1
+POPCOUNT|2017-08-11 18:33:16|2
+POPCOUNT|2017-08-11 18:38:24|2
+POPCOUNT|2017-08-11 18:43:31|2
+POPCOUNT|2017-08-11 18:48:38|2
+POPCOUNT|2017-08-11 18:53:45|2
+POPCOUNT|2017-08-11 18:58:52|2
+POPCOUNT|2017-08-11 19:04:00|2
+POPCOUNT|2017-08-11 19:09:07|2
+POPCOUNT|2017-08-11 19:14:14|2
+POPCOUNT|2017-08-11 19:18:30|2
+POPCOUNT|2017-08-11 19:23:37|2
+POPCOUNT|2017-08-11 19:28:44|2
+POPCOUNT|2017-08-11 19:33:52|2
+POPCOUNT|2017-08-11 19:38:59|2
+WRITE_COMPLETE
